@@ -47,6 +47,7 @@ const SidebarOption = styled.button`
 	display: flex;
 	flex-direction: ${props => props.isSidebarShort ? 'column' : 'row'};
 	align-items: center;
+	text-align: left;
 	width: 100%;
 	justify-content: flex-start;
 	gap: ${props => props.isSidebarShort ? '10px' : '24px'};
