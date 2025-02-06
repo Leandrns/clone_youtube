@@ -94,7 +94,7 @@ const ResultSearch = styled.div`
     position: absolute;
     top: 56px;
     max-height: 480px;
-    width: 35%;
+    width: 42%;
     background-color: #222;
     border-radius: 12px;
     overflow-y: auto;
