@@ -1,0 +1,172 @@
+{
+	"videos": [
+		{
+			"titulo": "Aprenda JavaScript em 1 Hora",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Canal de Programação",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1.2M",
+			"tempo_postagem": "há 2 meses"
+		},
+		{
+			"titulo": "Tutorial de Python para Iniciantes",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Python Fácil",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "850K",
+			"tempo_postagem": "há 1 mês"
+		},
+		{
+			"titulo": "React.js: O Guia Completo",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "React Master",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "500K",
+			"tempo_postagem": "há 3 semanas"
+		},
+		{
+			"titulo": "Como Construir uma API REST com Node.js",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Node.js Pro",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "300K",
+			"tempo_postagem": "há 1 semana"
+		},
+		{
+			"titulo": "Introdução ao Machine Learning",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "ML Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1.5M",
+			"tempo_postagem": "há 4 meses"
+		},
+		{
+			"titulo": "Curso Completo de HTML e CSS",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Web Dev",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "2M",
+			"tempo_postagem": "há 6 meses"
+		},
+		{
+			"titulo": "Aprenda SQL em 30 Minutos",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Database Guru",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "750K",
+			"tempo_postagem": "há 2 semanas"
+		},
+		{
+			"titulo": "Desenvolvimento de Apps com Flutter",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Flutter Dev",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1.1M",
+			"tempo_postagem": "há 5 meses"
+		},
+		{
+			"titulo": "Kotlin para Android: Guia Completo",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Android Dev",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "600K",
+			"tempo_postagem": "há 3 meses"
+		},
+		{
+			"titulo": "Introdução ao Docker",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "DevOps Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "900K",
+			"tempo_postagem": "há 1 mês"
+		},
+		{
+			"titulo": "Curso de C# para Iniciantes",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "C# Master",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1.3M",
+			"tempo_postagem": "há 7 meses"
+		},
+		{
+			"titulo": "Aprenda TypeScript",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "TS Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "500K",
+			"tempo_postagem": "há 2 semanas"
+		},
+		{
+			"titulo": "Curso Completo de Vue.js",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Vue Master",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "800K",
+			"tempo_postagem": "há 4 meses"
+		},
+		{
+			"titulo": "Introdução ao GraphQL",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "GraphQL Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "450K",
+			"tempo_postagem": "há 3 semanas"
+		},
+		{
+			"titulo": "Curso de Swift para iOS",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "iOS Dev",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1M",
+			"tempo_postagem": "há 5 meses"
+		},
+		{
+			"titulo": "Aprenda Go em 1 Hora",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Go Lang",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "700K",
+			"tempo_postagem": "há 2 meses"
+		},
+		{
+			"titulo": "Curso Completo de Ruby on Rails",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Rails Master",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "1.4M",
+			"tempo_postagem": "há 6 meses"
+		},
+		{
+			"titulo": "Introdução ao AWS",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Cloud Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "950K",
+			"tempo_postagem": "há 1 mês"
+		},
+		{
+			"titulo": "Curso de PHP para Iniciantes",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "PHP Dev",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "600K",
+			"tempo_postagem": "há 3 meses"
+		},
+		{
+			"titulo": "Aprenda Rust",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Rust Academy",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "500K",
+			"tempo_postagem": "há 2 semanas"
+		},
+		{
+			"titulo": "Curso Completo de Angular",
+			"imagem_capa": "https://images.unsplash.com/photo-1735596365888-ad6d151533f2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"canal": "Angular Master",
+			"foto_canal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxCWxxArxsqx-3bj1l3-77cwBSZ-3B0oH5g&s",
+			"visualizacoes": "80K",
+			"tempo_postagem": "há 4 meses"
+		}
+	]
+}
