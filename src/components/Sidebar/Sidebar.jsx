@@ -77,6 +77,10 @@ const SidebarOption = styled.button`
 		gap: 10px;
 		padding: 14px 12px;
 
+		i {
+			width: auto;
+		}
+
 		p {
 			font-size: 10px;
 		}
