@@ -88,6 +88,10 @@ const SidebarOption = styled.button`
 
 	@media screen and (max-width: 768px) {
         flex-direction: row;
+
+		i {
+			width: 20px;
+		}
     }
 `;
 
